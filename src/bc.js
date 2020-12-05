@@ -32,9 +32,6 @@ module.exports = {
     div,
     mult,
     pow,
-<<<<<<< HEAD
     mod,
-=======
     max,
->>>>>>> feature_3
 };
